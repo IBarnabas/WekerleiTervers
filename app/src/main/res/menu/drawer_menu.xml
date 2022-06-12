@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_mainpage"
+            android:title="@string/mainpage" />
+        <item
+            android:id="@+id/nav_locations"
+            android:title="@string/helyszinek" />
+        <item
+            android:id="@+id/nav_map"
+            android:title="@string/terkep" />
+        <item
+            android:id="@+id/nav_detail"
+            android:title="@string/erdekessegek" />
+    </group>
+
+    <item android:title="@string/kapcsolat">
+        <menu>
+            <item
+                android:id="@+id/nav_fb"
+                android:title="@string/facebook" />
+            <item
+                android:id="@+id/nav_web"
+                android:title="@string/weboldal" />
+        </menu>
+    </item>
+</menu>

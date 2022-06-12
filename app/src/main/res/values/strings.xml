@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Wekerlei Térvers</string>
+    <string name="title_activity_maps">Térkép</string>
+    <string name="location">HELYSZÍN</string>
+    <string name="curiosities">Érdekességek</string>
+    <string name="error_player">"Nem sikerült a videót lejátszani!"</string>
+    <string name="dot_loc">". Helyszín"</string>
+    <string name="enable_loc">"A helymeghatározás engedélyezve."</string>
+    <string name="dis_loc">"A helymeghatározás nem lett engedélyezve!\nAz alkalmazás egyes funkciói így nem elérhetőek."</string>
+    <string name="near_state_10m">". helyszín 10 méteren belül!\nSzeretné megnyítni az állomást?"</string>
+    <string name="near_state_the">"A(z) "</string>
+    <string name="btn_yes">"Igen"</string>
+    <string name="btn_no">"Nem"</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="starting_text_1">Jelfák az úton</string>
+    <string name="starting_text_2">A Wekerlei Társaskör Egyesület kezdeményezésére jött létre ez az egyedülálló térvers a műemlékvédett Wekerletelepen.</string>
+    <string name="starting_text_3">A tíz állomásból, tíz „versszakból”, tíz installációból, azaz jelfából álló komplex élményt nyújtó séta 1,6 kilométeren át vezeti a látogatót. Az alkotók célja, hogy az erre elkészített térkép segítségével az érdeklődők végigsétáljanak a mintegy 45 perces szakaszon, és mindeközben egyszerre művészeti-építészeti-környezeti útélményben legyen részük.\n\nMindegyik installációba egy acél nézőke van beépítve, melyen keresztül fókuszálhatunk a városrész egy-egy egyedi szépségű vagy hangulatú részletére.\n\nA jelfák önmagukban is szemet gyönyörködtető látványt nyújtanak, kő talapzatból kinövő, rozsdamentes acél elemekkel kombinált, faragott faoszlopok. Mindegyik más, mivel formáját és a talapzatokba bevésett szövegszilánkokat a nézőkén át megpillantható látvány ihlette.</string>
+    <string name="starting_text_4">Miért jelfa?</string>
+    <string name="starting_text_5">Mert a műemlékvédett Wekerletelep egy olyan részletét jelzi, mely mellett talán tovább mennénk, anélkül, hogy észrevennénk szépségét.</string>
+    <string name="starting_text_6">Miért térvers?</string>
+    <string name="starting_text_7">A térvers végigjárása olyan élményt nyújt, mintha egy barangolás stációit megéneklő verset olvasnánk. A különbség annyi, hogy itt a „versszakok” (helyszínek) a valósan elénk táruló látvány, hangulat és szöveg együtteséből vannak összerakva.</string>
+    <string name="starting_text_8">Miért komplex?</string>
+    <string name="starting_text_9">Mert az installációk formavilágában a szobrászat, költészet, építészet, népművészet, környezeti kultúra egyszerre jelenik meg. A térvers alkotói csapatának további tervei között szerepel a zene megjelenítése az egyes állomásokon.\n\nA Wekerlei Térverset végigjárva az épített és természeti értékek megismerése mellett rácsodálkozhatunk a hely hangulatára, míves részletekre, a meseváros apró szépségeire.\n\nA jelfa út elkészülését Kispest Önkormányzata támogatta, és egy maroknyi önkéntes ötlete és munkája nyomán született meg.</string>
+    <string name="helyszinek">Helyszínek</string>
+    <string name="terkep">Térkép</string>
+    <string name="erdekessegek">Érdekességek</string>
+    <string name="kapcsolat">Kapcsolat</string>
+    <string name="facebook">Facebook</string>
+    <string name="weboldal">Weboldal</string>
+
+    <string name="team_name_1">Bank Róbert</string>
+    <string name="team_desc_1">Civil foglalkozása közgazdász. 2008 óta dolgozik önkéntesként a Wekerlén.\n\nA 2008-as centenáriumi évben a 100 éves  Wekerletelep szlogenjét ő alkotta meg. Részt vett a centenáriumi évvel kapcsolatos kommunikációs munkában. 2014-ben részt vállalt a Wekerle Kalauz elkészítésében.</string>
+    <string name="team_name_2">Csóka Eszter</string>
+    <string name="team_desc_2">Civil foglalkozása játék- és bábkészítő, drámapedagógus, kulturális projektek szervezője, szervezetfejlesztő tréner. 2005 óta dolgozik önkéntesként a Wekerlén.\n\nNagyon sok wekerlei projektekben dolgozott önkéntesként: Wekerlei Életfa, Wekerle 100 éves programsorozat, Wekerlei Székelykapu Napok, Wekerlei Gondolatnaptár,  Wekerlei Szabadegyetem,  Wekerlei Mikulásvárás,  Dombon Álmodók alkotói projektjei kitalálója, megszervezője. Ezek közül a Mikulásvárásra a legbüszkébb.</string>
+    <string name="team_name_3">Fazekas Csaba </string>
+    <string name="team_desc_3">Civil foglalkozása építész. 2007 óta dolgozik önkéntesként Wekerlén.\n\nRészt vett önkéntesként a Centenáriumi Építész kiállításában, az Építészeti kézikönyv elkészítésében, a Megfagyott Muzsikusok szoborcsoport és az Életfa kidolgozásában, a Szent Iván-éji Tűzszobor megvalósításában. Mindig az a munka a legkedvesebb számára, amiben éppen benne tevékenykedik.</string>
+    <string name="team_name_4">Iváncsics László</string>
+    <string name="team_desc_4">Civil foglalkozása építőmérnök. 2007 óta dolgozik önkéntesként a Wekerlén.\n\nFő projektek, amiben önkéntesként részt vett: Életfa állítás, Szent Iván éji tűzszobrok. Amihez jó mesterember segítsége kell, arra őt kérik fel.</string>
+    <string name="team_name_5">Romhányi András</string>
+    <string name="team_desc_5">Civil foglalkozása nyugalmazott népművelő. 1998 óta dolgozik önkéntesként Wekerlén.\n\nBüszke arra, hogy a Wekerle Centenárium programvezetője volt, azon belül az “István, a király” előadás rendezője. A Magyar Kollégium Kulturális Egyesület alapítója és elnöke. Számos nagy rendezvény ötletadója és szervezője vagy társszervezője (Életfa ünnep, Wekerlei Székelykapu Napok, Térzene, Szent Iván-éji tűzszobor, Wekerlei Nyári Szabadegyetem, Wekerlei Sörkör, Wekerlei Mikulás).</string>
+    <string name="team_name_6">Somlói Judit</string>
+    <string name="team_desc_6">Civil foglalkozása építész. 2007 óta dolgozik önkéntesként a Wekerlén.\nA Téltemetés ötletgazdája és évekig a főrendezője volt, az első esemény szervezésekor került kapcsolatba az önkéntesekkel.\n2009-től alelnöke, 2012 óta a Wekerlei Társaskör Egyesület elnöke, így az összes rendezvény, projekt megvalósításában oroszlánrészt vállalt. Nevéhez fűződik az Építészklub alapítása 2007-ben, melyet a műemlékvédelem területén végzett tevékenységéért 2011-ben Forster Gyula emlékéremmel ismertek el. Számos wekerlei témájú kiadvány főszerkesztője. Több wekerlei köztéri alkotás létrehozásában részt vett, Győri Ottmár téri Centenáriumi emlékhely, a Megfagyott Muzsikusok, Eperfa, Életfa, s évről-évre a Szentiván éji tűzszobor alkotói csoportjának tagja. A Wekerlei Napok és Kulturális Örökség Napjai megrendezése különösen kedves és nagy kihívás számára, de mindegyik rendezvényt fontosnak tartja a közösségi kapcsolatok építése és erősítése szempontjából. A legfontosabb számára a Wekerletelep érdekképviseletének megerősítése.</string>
+    <string name="team_name_7">Szebenyi Marianna</string>
+    <string name="team_desc_7">Civil foglalkozása képző, tréner,  közösségszervező, közösségfejlesztő, képzés- és tananyagfejlesztő, konferencia- és rendezvényszervező. 2002 óta dolgozik önkéntesként Wekerlén.\n\nLegkedvesebb számára a Vasárnapi Térzenék szervezése. Ezen kívül szinte minden wekerlei rendezvény egyik szervezője, bonyolítója, sok rendezvény ötletadója is. Bevallása szerint nagy megtiszteltetés volt számára a Wekerlei Életfa alkotói csapatának tagja lenni.</string>
+    <string name="team_name_8">Urmai Ungurán László</string>
+    <string name="team_desc_8">Civil foglalkozása grafikus, festőművész. 2006 óta dolgozik önkéntesként Wekerlén.\n\nŐ alkotta meg a WTE arculatát, megújította a Wekerle Újság design-ját, kialakította a 100 éves Wekerle projekt arculatát, megtervezte a WTE portált tervezése. Nevéhez fűződik többek között a Wekerlei Székelykapu Napok, a Wekerlei Napok, a Wekerlei Sörkör arculata, a Zenepavilon arculati terve, az Életfa, Szent Iván Tűzszobor, „Ház szeme” projekt. A wekerlei falinaptárak, és még számos más grafikai és arculati munka. Amire legbüszkébb: Életfa, WTE arculata, wekerlei falinaptárak, sok civil szervezet logója.</string>
+    <string name="team_name_9">Váradi Balázs</string>
+    <string name="team_desc_9">Civil foglalkozása közgazdász. 2002 óta dolgozik önkéntesként a Wekerlén.\n\nSzinte mindegyik wekerlei projektben és rendezvényen részt vesz és tetemes feladatot vállal. (Téltemetés, Mikulás, Wekerlei Napok, Életfa, Wekerle Centenárium stb.)</string>
+    <string name="alkoto_csapat">A Wekerlei Térvers alkotói csapata:</string>
+    <string name="profile_picture">Arckep</string>
+    <string name="nav_menu_img">Menü kép</string>
+    <string name="email">E-mail: info@wekerleitervers.hu</string>
+    <string name="idezet">Idézet</string>
+    <string name="leiras">Leírás</string>
+    <string name="hang_lejatszas">Hanganyag lejátszása</string>
+    <string name="mainpage">Főoldal</string>
+    <string name="group_image">csoportkép</string>
+
+    <string-array name="loc_texts">
+        <item>A térvers első helyszínének („versszakának”) installációja a Hungária úton, a Zrumeczky-kapu tövében található. Az installáció közelében van az információs tájékoztató portál, amely röviden ismerteti az innen induló térvers koncepcióját.\n\nAz első helyszínnél az installáció (jelfa) egy öreg székely vitézt szimbolizál. A „székely” asszociáció kézenfekvően adódik, mivel a jelfa központi elemét képező fa oszlop a székelyföldi kulturális hagyomány egyik ikonikus elemét jelentő kopjafa motívumait hordozza. Sőt az installációban elhelyezett nézőke is egy kopjafára fókuszál, amely a székelyföldi építészet elemeit markánsan hordozó Zrumeczky-kapu tetején látható.\n\nA fa oszlop alsó részén elhelyezett „zsinórkötés” motívum a hadfi díszes csizmáját idézi. Az alapzatra írt szöveggel és a térvers címével tudatosítjuk a „térvers-olvasóban”, hogy a rá váró barangoláson „jelfák” mutatják majd az utat. Az egyes állomásoknál a szövegek fém talapzatai mindig a következő helyszín felé mutatnak.</item>
+        <item>A második helyszín installációja a Kós Károly tér 14. számú ház Mészáros Lőrinc utca felőli kapubejáratától 5 méterre található. A jelfa acél teteje tulipánokat és azok közül felrepülő galambokat formáz. Ezeket a motívumokat (tulipán, galamb) az installáció nézőkéje által fókuszba helyezett, épített kapubejáró tetején lévő, székelykapura emlékeztető galambdúc ihlette. Itt állva, óhatatlanul felfedezhető a szemben található, Kós Károly tér 13. számú házon lévő, régi időket idéző fa erkély és az épület díszes faragott oromzata is. A jelfa alapzatára írt mondat szavakba önti a látvány által előhívott asszociációkat és érzéseket.</item>
+        <item>A térvers harmadik helyszínének jelfája a Corvin körúton áll, annál a csomópontnál, ahol a Corvin körút, a Mészáros Lőrinc utca, a Taksony utca és a Vajk utca összefut. Az alkotói fantáziát a Corvin körutat mindkét irányból a távolban lezáró két patinás iskola ragadta meg. Felderengtek a dédszüleink, nagyszüleink és a szüleink generációja, sőt a mai gyerekek is, amint sietnek a tekintélyes iskolákba, de vágyaik és álmaik egy részét valahol kint hagyják a zöldben. Az iskolások fantáziáját és szárnyaló vágyait egy szárnyait kitáró pillangó szimbolizálja. A pillangó két csápja két periszkóp, amelybe két nézőkén át tekinthet bele a látogató. A két periszkóp a két távoli iskolára fókuszál. (A periszkóp és a hozzá tartozó fellépő még gyártás alatt áll.)</item>
+        <item>A negyedik jelfa a Corvin körút és a Pannónia út sarkán áll, egy facsoport mellett. Az installáció nézőkéje a gyönyörű platánok messzire nyúló sorfalát és a mellettük álló lakóházak hosszú sorát vágja ki a térből. Ennél a helyszínnél az elmúlt száz évben itt lakó generációk titkokat rejtő élete, valamint a házak fölé hajló, óvó „platánfa-gárda” képe inspirálta. Ebben az installációban a fa oszlop az életeket, emberi sorsokat, a mellette sorakozó, felül meghajlított koracél lemezek pedig az oltalmazó platánokat szimbolizálják.</item>
+        <item>A térvers ötödik helyszínének installációja az Esze Tamás út, a Corvin körút és a Martinovics utca találkozásánál áll. A nézőke kiemeli a térből az évtizedek múlásával zöld alagúttá váló és a messzi távolba vesző platán fasort. (A Bercsényi utca irányába nézünk.) Az alkotói alapgondolat itt az volt, hogy millió emberi történetet, vágyat, örömöt és bánatot ismerhetett meg ez a zöld alagút.\n\nA múlt itt gomolygó színes emlékeit szimbolizálják a jelfa tetején elhelyezett, egymáshoz képest elforgatott koracél négyzetek és a fa oszlop díszítése is. A nézőkében elhelyezett egyszerű optikai eszköz szintén szilánkokká töri szét a valós látványt, mintha tényleg látnánk valamit a múlt emlékmozaikjaiból.</item>
+        <item>A hatodik helyszín a Hársfavirág téren található. A napjainkban már találkahelyként is szolgáló kis tér közepén árnyas pihenőhely, körben százéves hársfák és patinás házak sorakoznak. Az alkotók figyelmét megragadta egy kopottságában is bájos épület, Fiala Géza által tervezett neogótikus lakóháza. Némi költői elrugaszkodással egy romantikus mesevárra emlékeztet. Az installáció nézőkéje ennek a háznak egy lőrésszerű ablakára fókuszál. Szinte látjuk magunk előtt a szerelme után vágyakozó várkisasszonyt és a lőrés mögött kémlelő strázsát. A jelfa a látvány és a hangulat ihletésében készült: egy összebújó szerelmespárt szimbolizál. Egy 180 cm körüli fa oszlopnak támaszkodik egy 160 cm körüli oszlop, és összeköti őket egy koracélból készült nagy közös szív.</item>
+        <item>A hetedik jelfa a Bárczy István téren, a Kapisztrán utca elején áll. Innen könnyű észrevenni a sétánkon mögöttünk hagyott Kapisztrán utca különleges fasorát. Az utca két oldalán sorakozó fák lombjai gótikus boltívet formálva hajolnak össze a magasban. Ez a látvány ihlette az installációt, ami egy gótikus templomot szimbolizál. A fa oszlop és a kapcsolódó koracél lemezek jelzésszerűen egy ilyen templom sziluettjét formázzák. A nézőke a fasor csúcsívben összesimuló lombozatára irányítja a figyelmet.</item>
+        <item>A nyolcadik helyszínt a Kós Károly által tervezett Kós Károly tér 3. számú ház Hungária körút felőli oldalán találjuk. Innen nézve a hatalmas, boltíves hármaskapu (Kós-kapu) és a mögötte felderengő zöld tér (és benne az Életfa sziluettje) látványa hívta életre a 8. állomás formavilágát. A kapun túl az élettelien pezsgő tér. A fa oszlop egyik függőleges lapjára rögzített egyenes, rozsdás színű acéllemez a lezárt múltat, a szorosan mellé állított két, hullámosan megformált lemez pedig a múltból kinövő jelent és a dinamikus jövőt szimbolizálja. A múltat, jelent és jövőt szimbolizáló lemezek eltérő színűek. A nézőke az Életfa távoli sziluettjének csúcsát vágja ki a térből.</item>
+        <item>A kilencedik jelfa a Kós Károly téri park közepén, a szökőkút környezetében áll. A teret a folyamatos mozgás, életteliség, a generációk találkozása, ezernyi élmény és történés jellemzi. Ezt a mozgást egy nagyobb körben elhelyezkedő két kisebb kör szimbolizálja az installáció tetején. A jelfa ezen része forgatható is! Így a nézőkével nem csupán egy specifikus térrészletre irányul a figyelem, hanem a tér csodáinak komplexitására. A nézőke (és rajta a három acél kör) úgy van a jelfához építve, hogy a látogató függőleges tengely mentén körbe forgathassa, de három olyan ponton megállítja a pásztázást, amelyeket az alkotók kiemelten fontosnak tartottak kiragadni a térből. A Kós Károly és Wekerle Sándor szobrára, valamint a Wekerlei Életfa tetejére.</item>
+        <item>A tizedik helyszín installációja szintén a Kós Károly téri parkban (a nyugati kapu oldalán, a kerítés mellett) kapott helyet. Ez a térvers záró „versszaka”. A jelfa nézőkéje ismét a Zrumerczky-kapu felé irányul, amely mögött látszik a távolba vesző Hungária út, ami mintegy „kivezet” a Wekerletelepről. Az installáció tetejéből rövidebb-hosszabb koracél lemezek bomlanak ki, és az egyes lemezek kialakítása visszaidézi a korábbi helyszínek kulcsmotívumait (pl. galamb, pillangó, szív, körbe forgó univerzum).\n\nA talapzatba vésett gondolat az út lezárásáról és a látogatónak valamilyen üzenettel történő útra bocsátásáról szól. Ebben az utolsó „verszak”  magában foglalja azt a gondolatot is, hogy a rohanó hétköznapokban néha le lehet lassítani, és ilyenkor észre lehet venni, át lehet érezni életünk és környezetünk apró szépségeit, csodáit. A Wekerlei Térvers ebben segít.</item>
+    </string-array>
+
+    <string-array name="loc_quotes">
+        <item>Barázdált homlokú öreg vitézek egy térbe írt versben most végigvezetnek.</item>
+        <item>A madarak elrepültek, csak fakó időnyomok fészkelnek az álmodó ormokon.</item>
+        <item>Az iskolák körül az elvágyódás gyermekálmai repkednek szerteszét.</item>
+        <item>Ezernyi élet titkait vigyázzák a nemes platánok.</item>
+        <item>Színes emlékek és vágyak kavarognak a lombok időalagútján.</item>
+        <item>Szerelmek sóhajait hordja a ház körül a szél.</item>
+        <item>Az égbe törő ívek felemelnek, a természet gótikáját ünnepli a lelked.</item>
+        <item>A kapun túl a Wekerle szíve hív, hol együtt lüktet múlt, jelen s jövő.</item>
+        <item>Hagyd, hogy forogjon veled ég és föld, tér és idő!</item>
+        <item>A jelfák eddig kísértek, de társaikra még rálelhetsz, ha útjaidon szárnyalni vágyna a lelked.</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next_state">Következő helyszín</string>
+    <string name="play_sound">Hanganyag lejátszása</string>
+    <string name="stop_sound">Hanganyag leállítása</string>
+    <string name="prev_state">Előző állomás</string>
+    <string name="start_walk">Séta indítása</string>
+</resources>
