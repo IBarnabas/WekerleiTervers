@@ -27,7 +27,7 @@ a házi feladatban rövid zenei részlet bejátszásával lesz illusztrálva.
 
  ## Alkalmazás továbbfejlesztése
 
- Az Szakdolgozatom készítésének keretetin belül az alkalmazást alapvető debuggolásokon és apróbb változtatásokon kívül az alábbi funkciókkal bővítettem ki:
+ A Szakdolgozatom készítésének keretetin belül az alkalmazást alapvető debuggolásokon és apróbb változtatásokon kívül az alábbi funkciókkal bővítettem ki:
  - Felhasználókezelés
    -  Az alkalmazásba be lehet jelentkezni, a bejelentkezett felhasználók látják, hogy melyik állomást látogatták már meg és melyiket még nem.
 - Backend
